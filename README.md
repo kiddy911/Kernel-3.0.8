@@ -1,24 +1,18 @@
-Huawei Ascent P6 3.0.8 Kernel
+Huawei MediaPad FHD10 3.0.8 Kernel
 =============================
 
 
 Source:
 
-Ascend P6 Open Source(P6-U06,JellyBean,kernel-3.0.8)
+Huawei FHD10 Open Source(JellyBean,KitKat,kernel-3.0.8)
 
 
 
 Compiling TUTORIAL Linux 64BIT:
 
-cd (change to home dir)
 
-mkdir android-kernel (make a folder for all the files)
 
-cd android-kernel
 
-git clone https://github.com/damienyong/Kernel-3.0.8.git
-
-cd Kernel-3.0.8
 
 cd kernel
 
@@ -33,7 +27,7 @@ Now you have your zImage
 
 Include of your zImage to boot.img :
 
-Download the Rom you want to use (B118CN is recommendet)
+Download the Rom you want to use (original is recommendet)
 
 extract the rom
 
